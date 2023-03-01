@@ -95,3 +95,9 @@ background: #6c63ff;
 .email-link:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 576px) {
+  p {
+    display: none;
+  }
+}
